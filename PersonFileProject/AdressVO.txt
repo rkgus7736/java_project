@@ -1,0 +1,1 @@
+Person [name=홍길동, tel=01012341234, email=rkg8227@naver.com, age=24]
